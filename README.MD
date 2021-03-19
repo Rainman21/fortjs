@@ -9,6 +9,10 @@ Component based MVC web framework for [nodejs](https://nodejs.org/en/) targeting
 [![npm version](https://badge.fury.io/js/fortjs.svg)](https://badge.fury.io/js/fortjs)
 [![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](http://fortjs.info/)
 
+# Why the Fork of FortJS?
+* Continues on from the example provided by original author
+* Used for letting students extend the minimal REST server and pages starting from a known, working state
+
 # Why fortjs
 
 * Based on [Fort](https://github.com/ujjwalguptaofficial/fort) architecture.
