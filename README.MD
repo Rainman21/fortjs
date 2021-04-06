@@ -2,6 +2,9 @@
  <img width="200px" src="logos/width_400.png"/>
 </p>
 
+Good examples here : https://fortjs.info/tutorial/get-started/
+
+
 Component based MVC web framework for [nodejs](https://nodejs.org/en/) targeting good code structures & modularity.
 
 [![GitHub version](https://badge.fury.io/gh/ujjwalguptaofficial%2Ffortjs.svg)](https://badge.fury.io/gh/ujjwalguptaofficial%2Ffortjs)
